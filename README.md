@@ -2,17 +2,31 @@
 
 
 
-## Data science portfolio by Franklin Cheung
-This portfolio is a compliation of projects which I created for data analysis
+## Hi there! 👋
+I'm Franklin, a recent graduate with a Bachelor of Science in Business Administration, specializing in E-Business. My academic journey has sparked a profound interest in data science and machine learning, areas where I am actively expanding my expertise.
 
-## :man_technologist: Stack
+🌱 What I'm Focused On:
+
+Immersing myself in the world of data science and machine learning.
+Developing practical skills through projects that demonstrate my ability to analyze data and derive actionable insights.
+Continuously learning about new technologies and methodologies in the field of data science.
+
+## 👨‍💻 Stack
 ![Static Badge](https://img.shields.io/badge/Language-MySQL-blue)  ![Static Badge](https://img.shields.io/badge/Language-R-blue)  ![Static Badge](https://img.shields.io/badge/Language-Python-blue)  ![Static Badge](https://img.shields.io/badge/Language-PowerBI-orange)  ![Static Badge](https://img.shields.io/badge/Language-Excel-orange)  
 
 
-## :man_technologist: Latest Projects
-* 
+## 🗃️ Latest Projects
+* Market Trend Analyzer: Python (Web App)
+* Texas Demographics Dashboard
+* Ecommerce Dashboard
+* Cyclistic: Bikeshare Dashboard
+* Excel Business Worksheets
 
-## :man_technologist: Latest Blog Posts
-
+## 📝 Notes from a (Data) Analyst
+* SQL Crash Course
+* R Crash Course
+* Python Crash Course
+* Multi-Linear Regression
+* GitHub Setup
 
 
