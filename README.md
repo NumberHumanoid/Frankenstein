@@ -1,4 +1,3 @@
-# Data Analyst
 
 ![temp_banner](assets/Banner.png)
 
