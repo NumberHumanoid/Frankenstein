@@ -1,6 +1,6 @@
-# NumberHumanoid.github.io
+# Data Analyst
 
-
+![temp_banner](assets/Banner.png)
 
 ## Hi there! 👋
 I'm Franklin, a recent graduate with a Bachelor of Science in Business Administration, specializing in E-Business. My academic journey has sparked a profound interest in data science and machine learning, areas where I am actively expanding my expertise.
@@ -27,6 +27,6 @@ Continuously learning about new technologies and methodologies in the field of d
 * R Crash Course
 * Python Crash Course
 * Multi-Linear Regression
-* GitHub Setup
+* 
 
 
