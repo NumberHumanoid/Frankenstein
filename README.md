@@ -15,17 +15,18 @@ Continuously learning about new technologies and methodologies in the field of d
 
 
 ## 🗃️ Latest Projects
-* Market Trend Analyzer: Python (Web App)
-* Texas Demographics Dashboard
-* Ecommerce Dashboard
-* Cyclistic: Bikeshare Dashboard
+* Sales Insight Dashboard
+* HR Incentive Dashboard
+* Texas License Demographics Dashboard
+* Logistics Operations Dashboard
 * Excel Business Worksheets
 
-## 📝 Notes from a (Data) Analyst
+## 📝 Latest Blog posts from a (Data) Analyst
 * SQL Crash Course
 * R Crash Course
 * Python Crash Course
 * Multi-Linear Regression
-* 
+
+
 
 
