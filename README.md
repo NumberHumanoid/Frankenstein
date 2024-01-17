@@ -15,8 +15,8 @@ Continuously learning about new technologies and methodologies in the field of d
 
 
 ## 🗃️ Latest Projects
-* Manufacturing Insights Dashboard
-* Internet Sales Dashboard 
+* Manufacturing Operations Management Dashboard
+* Ecommerce Sales Insights Dashboard 
 * HR Incentive Dashboard
 * Texas License Demographics Dashboard
 * Excel Business Worksheets
