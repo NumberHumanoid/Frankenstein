@@ -15,10 +15,10 @@ Continuously learning about new technologies and methodologies in the field of d
 
 
 ## 🗃️ Latest Projects
-* Sales Insight Dashboard
+* Manufacturing Insights Dashboard
+* Internet Sales Dashboard 
 * HR Incentive Dashboard
 * Texas License Demographics Dashboard
-* Logistics Operations Dashboard
 * Excel Business Worksheets
 
 ## 📝 Latest Blog posts from a (Data) Analyst
