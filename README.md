@@ -15,7 +15,7 @@ Continuously learning about new technologies and methodologies in the field of d
 
 
 ## 🗃️ Latest Projects
-* Manufacturing Operations Management Dashboard
+* Financial Report Dashboard
 * Ecommerce Sales Insights Dashboard 
 * HR Incentive Dashboard
 * Texas License Demographics Dashboard
@@ -24,8 +24,7 @@ Continuously learning about new technologies and methodologies in the field of d
 ## 📝 Latest Blog posts from a (Data) Analyst
 * SQL Crash Course
 * R Crash Course
-* Python Crash Course
-* Multi-Linear Regression
+* PowerBI Visual Vocabulary 
 
 
 
