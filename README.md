@@ -15,17 +15,14 @@ Continuously learning about new technologies and methodologies in the field of d
 
 
 ## 🗃️ Latest Projects
-* Financial Report Dashboard
-* Ecommerce Sales Insights Dashboard 
-* HR Incentive Dashboard
-* Texas License Demographics Dashboard
+* Health Insurance Linear Regression Analysis (R)
+* Financial Statements Dashboard (Excel + Power BI)
+* Ecommerce Sales Insights Dashboard (SQL + PowerBI)
+* HR Employee Wellness Incentive Dashboard (SQL + PowerBI)
+* Ad-Hoc: Absenteeism Dashboard (SQL + PowerBI)
 * Excel Business Worksheets
 
 ## 📝 Latest Blog posts from a (Data) Analyst
-* SQL Crash Course
-* R Crash Course
-* PowerBI Visual Vocabulary 
-
-
-
-
+* Statistics 101
+* Scientific Method in Data Analysis
+* R Programming Crash Course
